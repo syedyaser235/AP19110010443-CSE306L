@@ -2,7 +2,6 @@
 #include <string.h>
 #include <stdlib.h>
 #include <stdbool.h>
-Group 3
 #define SIZE 20
 struct symtab
 {
