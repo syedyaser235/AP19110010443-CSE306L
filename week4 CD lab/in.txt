@@ -1,0 +1,10 @@
+int main()
+{
+  int h;
+  h=50 != -9
+  k=.10
+  -3b+9
+  -8n+2 
+  _start
+  return 0;
+}
