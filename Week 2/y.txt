@@ -1,0 +1,16 @@
+ 
+ int : keyword 
+ main : identifier
+(
+)
+{ 
+ int : keyword 
+ a : identifier
+,
+ b : identifier
+== : relational operator  
+5: number
+. 
+876: number
+;
+ comment did not close
